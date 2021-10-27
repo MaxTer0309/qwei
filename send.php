@@ -1,5 +1,5 @@
 <?php
 
-mail('terehov_maximilian@mail.ru', 'Приветствие', 'Привет :)')
+mail('terehov_maximilian@mail.ru', 'Приветствие', 'Привет :)');
 
 ?>
